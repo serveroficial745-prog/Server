@@ -1,0 +1,44 @@
+
+["Server Configs for Revervox Mod"]
+	#The maximum amount of player recordings that can be saved
+	"Maximum Saved Recordings" = 200
+	#The minimum amount of audios before they start being deleted
+	"Minimum Audio Count" = 50
+	#Maximum audios that Revervox will play before disappearing
+	"Revervox Max Audios" = 12
+	#Time in seconds that Revervox will wait after speaking before being able to get angry
+	"Revervox After Speaking Grace Period" = 1.5
+	#Time in seconds that Revervox Bat will wait after spawn before being able to get angry
+	"Revervox Bat After Spawning Grace Period" = 0.5
+	#Minimum distance between every Revervox
+	"Revervox Spawn Chance" = 100
+	#Chance of Revervox Bat spawning (1 in x)
+	"Revervox Bat Spawn Chance" = 5
+	#How much extra damage the revervox sword deals to revervox entities
+	"Revervox Sword Bonus Damage" = 7
+	#The chance of a revervox bat dropping its tooth on attack (1 in x)
+	"Revervox Bat Tooth Drop Chance" = 10
+	#Chance of fake bat event occuring. Higher is less likely, lower is more likely
+	"Fake Bat Event Chance" = 1.0
+	#Whether the fake bat event will occur
+	"Enable Fake Bat Event" = true
+	#Whether Revervox breaks blocks to get to you
+	"Revervox Block Breaking" = false
+	#Whether Revervox breaks non-solid blocks such as torches and natural blocks such as dirt and stone
+	"Revervox breaks non-solid blocks" = true
+	#Whether Revervox spawns above ground
+	"Revervox above ground" = false
+	#Whether Revervox uses the Sonic Boom ability
+	"Revervox Sonic Boom" = true
+	#Cooldown (in seconds) between Revervox Sonic Booms
+	#Range: 1 ~ 100
+	"Revervox Sonic Boom Cooldown" = 5
+	#Range (in blocks) of Revervox's Sonic Boom
+	#Range: 10 ~ 100
+	"Revervox Sonic Boom Range" = 30
+	#Cooldown (in seconds) between Megaphone uses
+	#Range: 0 ~ 100
+	"Megaphone Cooldown" = 4
+	#Whether crouching will stop your megaphone from doing a sonic boom
+	"Crouch stops Megaphone Boom" = true
+

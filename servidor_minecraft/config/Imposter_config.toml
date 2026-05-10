@@ -1,0 +1,81 @@
+
+["Imposter Mob Configuration"]
+
+	["Imposter Mob Configuration".attributes]
+		#Movement speed of the imposter
+		#Range: 0.1 ~ 2.0
+		movementSpeed = 0.3
+		#Maximum health of the imposter
+		#Range: 1.0 ~ 100.0
+		maxHealth = 50.0
+		#Attack damage of the imposter
+		#Range: 0.0 ~ 50.0
+		attackDamage = 6.0
+		#Armor value of the imposter
+		#Range: 0.0 ~ 30.0
+		armor = 0.0
+		#Follow range of the imposter
+		#Range: 10.0 ~ 200.0
+		followRange = 64.0
+
+	["Imposter Mob Configuration".spawning]
+		#Enable natural spawning of imposters
+		enableSpawning = true
+		#Spawn rate - chance out of 1000 to spawn each check
+		#Range: 1 ~ 1000
+		spawnRate = 50
+		#Minimum spawn distance from player in blocks
+		#Range: 8 ~ 64
+		minSpawnDistance = 8
+		#Maximum spawn distance from player in blocks
+		#Range: 16 ~ 128
+		maxSpawnDistance = 16
+		#Interval between spawn checks in ticks
+		#Range: 100 ~ 3600
+		spawnCheckInterval = 600
+		#Maximum number of imposters that can exist at once
+		#Range: 1 ~ 5
+		maxImposters = 1
+
+	["Imposter Mob Configuration".mining_and_building]
+		#Allow imposter to mine blocks to reach players
+		canMineBlocks = true
+		#Maximum distance from player at which imposter will mine blocks
+		#Range: 2 ~ 100
+		maxMiningDistance = 30
+		#Mining speed multiplier (higher = faster mining)
+		#Range: 0.1 ~ 5.0
+		miningSpeedMultiplier = 1.0
+		#Allow imposter to break stone-type blocks
+		canBreakStone = true
+		#Allow imposter to break dirt-type blocks
+		canBreakDirt = true
+		#Allow imposter to break wood-type blocks
+		canBreakWood = true
+		#Allow imposter to break ore blocks
+		canBreakOres = false
+		#Allow imposter to build blocks upward when mining up (default: true)
+		canBuildBlocks = true
+
+	["Imposter Mob Configuration".fishing_rod_chase]
+		#Allow imposter to use fishing rod to hook distant players (default: true)
+		canUseFishingRod = true
+		#Minimum distance to use fishing rod (blocks)
+		#Range: 3 ~ 50
+		fishingRodMinDistance = 4
+		#Maximum distance to use fishing rod (blocks)
+		#Range: 10 ~ 64
+		fishingRodMaxDistance = 20
+		#Cooldown between fishing rod uses (ticks, 20 ticks = 1 second)
+		#Range: 20 ~ 600
+		fishingRodCooldown = 100
+		#Strength of fishing rod pull (higher = stronger pull)
+		#Range: 0.3 ~ 10.0
+		fishingRodPullStrength = 0.3
+
+	["Imposter Mob Configuration".mob_protection]
+		#Cancel mob targeting when they try to attack imposter (default: true)
+		cancelMobTargeting = true
+		#Allow imposter to mount vehicles (default: false)
+		allowImposterMounting = false
+

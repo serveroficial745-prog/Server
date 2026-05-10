@@ -1,0 +1,696 @@
+[10May2026 00:00:17.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Roix> hijo e puta
+[10May2026 00:00:18.213] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:00:18.214] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:00:19.906] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 8.638322ms
+[10May2026 00:00:19.910] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+de8670fe-ac35-4ae2-9d6f-3ef3be13054f.pcm
+[10May2026 00:00:19.917] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+3bdbf149-1be1-4e70-a010-879a3e8ee4f5.pcm
+[10May2026 00:00:19.918] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+9cc7cf85-3a58-4827-b8de-56989e256286.pcm
+[10May2026 00:00:19.919] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+9fb10fed-2f6d-4aab-82b8-2d0713024eae.pcm
+[10May2026 00:00:19.920] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+13c3ebb2-3414-4878-8c88-405c50551d70.pcm
+[10May2026 00:00:19.920] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+76274e5c-0392-4820-b81d-32980e2e3a91.pcm
+[10May2026 00:00:19.921] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+ca2d4715-5b4c-46b1-8e90-e6dd588a08bc.pcm
+[10May2026 00:00:19.922] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+53453564-c543-45e0-a73a-f105bf35c20f.pcm
+[10May2026 00:00:19.926] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+92741a23-5cb3-462a-8abf-cb0c2a663066.pcm
+[10May2026 00:00:19.926] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+41d12b6c-f45f-49cf-991b-8bfe729ddcd0.pcm
+[10May2026 00:00:19.927] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+fe6dff81-49bf-4a77-900d-c9c6db53fadb.pcm
+[10May2026 00:00:19.928] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+ef876b53-5712-4a1b-840e-93beccdd606a.pcm
+[10May2026 00:00:19.928] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+5241d3ce-ddd8-48d7-8024-28fe0f717aaf.pcm
+[10May2026 00:00:19.930] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+99ffe64b-4a21-4ffb-9474-95b76ec20888.pcm
+[10May2026 00:00:19.930] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+53a7d6d3-4923-4b38-84b0-ae4308c19b85.pcm
+[10May2026 00:00:19.932] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+44230458-de16-484d-ba07-20c080686a08.pcm
+[10May2026 00:00:19.933] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+fe79080d-56b4-4d1f-b246-c79caa3601e8.pcm
+[10May2026 00:00:19.934] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+95be2339-aa5e-4d71-be08-e24e40928f65.pcm
+[10May2026 00:00:19.935] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+2661e639-5f61-4478-92f4-9815edc14032.pcm
+[10May2026 00:00:19.935] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+65ed546e-aaec-444d-9cb6-093e833d46df.pcm
+[10May2026 00:00:19.936] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+8d13964c-0617-42fd-b2cb-1ec891b273a2.pcm
+[10May2026 00:00:19.936] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+d9db1df6-66a8-445e-a5ec-0c8acf1a7985.pcm
+[10May2026 00:00:19.937] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+45b212f0-0c1a-4ce2-afcc-c8fadecf29d6.pcm
+[10May2026 00:00:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Roix> el man from the log
+[10May2026 00:00:32.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Roix was slain by Man From The Fog
+[10May2026 00:00:34.915] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:00:44.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Roix> tengo cama
+[10May2026 00:00:50.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Roix> el tema esk me dejó el cuerpo en la mrd
+[10May2026 00:00:53.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was obliterated by a sonically-charged shriek
+[10May2026 00:01:09.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Roix> pta soy pnj
+[10May2026 00:01:15.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Roix fell from a high place
+[10May2026 00:01:18.214] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:01:18.214] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:01:21.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was obliterated by a sonically-charged shriek
+[10May2026 00:01:55.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Roix died
+[10May2026 00:02:02.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Roix> eee
+[10May2026 00:02:11.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Roix> el murder está en mi cuerpo
+[10May2026 00:02:16.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Roix> va a tocar dps de la cena ir
+[10May2026 00:02:18.215] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:02:18.215] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:02:29.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Roix> dps les llego
+[10May2026 00:02:39.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Roix> haber si este pnj despawnea
+[10May2026 00:02:45.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Roix lost connection: Disconnected
+[10May2026 00:02:45.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Roix left the game
+[10May2026 00:02:45.513] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Itz_Roix
+[10May2026 00:03:04.900] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 2.810055ms
+[10May2026 00:03:04.901] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+1da32e8c-de13-4f16-b5c3-425ceccd09ab.pcm
+[10May2026 00:03:04.905] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+5d3c36b1-e7be-442e-8001-226ca87a4103.pcm
+[10May2026 00:03:04.905] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+787d2b14-329d-4796-aca7-e767565921e0.pcm
+[10May2026 00:03:04.909] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+274ed735-edb5-4b78-a954-7f23b8a06cf2.pcm
+[10May2026 00:03:04.909] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+04acaf6c-18b8-4174-a945-4f77daedc395.pcm
+[10May2026 00:03:04.910] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+2e3d1cdf-01de-484c-8237-6eaa86627cbd.pcm
+[10May2026 00:03:04.911] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+43f47ceb-d7bb-4b10-abda-1d3c5b33728d.pcm
+[10May2026 00:03:04.913] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+87f0e1d5-3a4a-4022-96ea-2eeb87ca0459.pcm
+[10May2026 00:03:04.914] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+605d7f25-cee6-46ab-b723-18f93d96ef62.pcm
+[10May2026 00:03:06.797] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:03:14.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Cave Dweller
+[10May2026 00:03:17.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Cave Dweller
+[10May2026 00:03:18.215] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:03:18.215] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:04:13.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Revervox Bat
+[10May2026 00:04:18.216] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:04:18.216] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:04:39.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Revervox Bat
+[10May2026 00:04:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Revervox Bat
+[10May2026 00:05:18.216] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:05:18.216] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:05:20.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Revervox Bat
+[10May2026 00:05:36.762] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 2.904853ms
+[10May2026 00:05:36.769] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+23f90a8d-5155-4d4d-af9f-3ec5cb6f1970.pcm
+[10May2026 00:05:36.769] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+d4ca84a6-98f3-44ef-9fad-190af032ee73.pcm
+[10May2026 00:05:36.770] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+351e441b-d90e-4e45-9200-e6627c415bb1.pcm
+[10May2026 00:05:36.772] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+ee5d18f9-3bc7-4d90-9046-9d351a898192.pcm
+[10May2026 00:05:36.772] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+ad8a82d4-fad5-421d-8fd2-cd1b5627aaeb.pcm
+[10May2026 00:05:36.773] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+f3d9bd2c-d63f-4407-a3d5-f104386a018c.pcm
+[10May2026 00:05:36.773] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+9d5fdd08-6e76-4792-9dc0-4ac657a4ffcc.pcm
+[10May2026 00:05:36.773] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+737893f0-2729-4896-adcd-bb7834c9b743.pcm
+[10May2026 00:05:36.774] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+a7e5a247-6ec9-4e22-83e9-18d000e2c98d.pcm
+[10May2026 00:05:36.776] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+92386663-4761-4157-b83e-037d375a488a.pcm
+[10May2026 00:05:36.776] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+128f5595-3e43-4979-9635-a2e4e1ccad59.pcm
+[10May2026 00:05:36.776] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+e507808a-e0fd-4994-b0c2-0e594c9eaebb.pcm
+[10May2026 00:05:36.777] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+c41fe888-3d9c-4daa-ba9e-e892c63217ba.pcm
+[10May2026 00:05:36.777] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+8b67d385-398c-4658-a7ea-77ebde74e26a.pcm
+[10May2026 00:05:36.778] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+7f7c3432-b7bc-46ec-b1ef-53eed46017ce.pcm
+[10May2026 00:05:36.779] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+9c8bbde1-65e9-4e8a-ba51-ddac2a39eddb.pcm
+[10May2026 00:05:36.781] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+db8391e6-933c-46a4-ad2e-f6263fd1f034.pcm
+[10May2026 00:05:36.782] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+8e406050-81e3-40d5-9dcf-5cc63182d162.pcm
+[10May2026 00:05:36.782] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+4000bacb-a5d5-4350-b528-f52ac5864437.pcm
+[10May2026 00:05:36.783] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+5fad54df-1960-4a24-95d1-f51c80baccb5.pcm
+[10May2026 00:05:36.783] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+7b349cbc-5ccc-44e6-ae2c-2101cd830f16.pcm
+[10May2026 00:05:36.784] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+ea32756e-56fd-4ada-a546-37a291fcd029.pcm
+[10May2026 00:05:36.784] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+1a9a5d72-a278-46cf-85c9-7d7ab05864e2.pcm
+[10May2026 00:05:36.785] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+b89baec7-4bf6-4ce6-8445-137f5ff942e3.pcm
+[10May2026 00:05:37.505] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:06:18.217] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:06:18.217] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:06:57.330] [VoiceChatPacketProcessingThread/WARN] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Recording buffer full!
+[10May2026 00:07:18.218] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:07:18.219] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:08:07.402] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 4.330803ms
+[10May2026 00:08:07.402] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+d3409934-9026-49f2-a0b8-5d2134f6e305.pcm
+[10May2026 00:08:07.403] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+a6b1da3d-4842-41f1-a249-131bac5187f2.pcm
+[10May2026 00:08:07.404] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+d70f3978-4082-47ae-8457-a4b9f4c9a5a2.pcm
+[10May2026 00:08:07.405] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+2e638a1f-8155-4caf-8a80-ceb3cc5b938c.pcm
+[10May2026 00:08:07.405] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+9528a3b1-8c23-4c21-8a61-8efa332fa8fd.pcm
+[10May2026 00:08:07.406] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+26ed7bfd-1461-4989-b2b5-7b95453be011.pcm
+[10May2026 00:08:07.414] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+a4550df7-d0ef-4979-a728-890bb0c4187a.pcm
+[10May2026 00:08:07.414] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+09a32d98-8725-4673-8a8f-6158cba830d7.pcm
+[10May2026 00:08:07.415] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+a1f0fc0c-8767-4e61-9ef5-e2c6e7cc661d.pcm
+[10May2026 00:08:07.415] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+1a9a3e89-63ec-4f04-9455-a10a88b2dff8.pcm
+[10May2026 00:08:07.416] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+2126e722-8e8f-4487-b360-47e80c44bd63.pcm
+[10May2026 00:08:07.416] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+530069e1-fbcc-4ae2-b182-bc795a173178.pcm
+[10May2026 00:08:07.417] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+7a6e82eb-92b7-45f2-835a-f85a4862fc65.pcm
+[10May2026 00:08:07.417] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+5269dcd4-8b1b-4431-9d06-186fa78ea74c.pcm
+[10May2026 00:08:07.418] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+4938192e-7abb-447a-a2cc-56dd8fb586f9.pcm
+[10May2026 00:08:07.418] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+eb8abcae-7782-412c-b099-7c7f40d12e66.pcm
+[10May2026 00:08:07.418] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+d9c2b578-32c0-4af9-850e-f61624c2ac75.pcm
+[10May2026 00:08:07.419] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+1ea7971a-b7ec-4b14-8ff9-ded78c3c795c.pcm
+[10May2026 00:08:07.419] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+bc13efe1-735b-4ee8-b90f-dbd10dffda7d.pcm
+[10May2026 00:08:07.420] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+e47ee114-eeec-458a-b45c-39002715d30f.pcm
+[10May2026 00:08:07.421] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+6cfa307b-f76c-4998-a322-25ec4cd6f32a.pcm
+[10May2026 00:08:09.904] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:08:18.219] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:08:18.219] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:09:18.219] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:09:18.220] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:09:53.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was shot by Skeleton
+[10May2026 00:10:18.220] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:10:18.220] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:10:24.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Camilxdk0
+[10May2026 00:10:39.900] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 2.916733ms
+[10May2026 00:10:39.901] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+6c0a20d3-df7a-4416-a067-f2ce615e32e9.pcm
+[10May2026 00:10:39.901] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+293c273c-6517-400a-a8ae-e27d27eda91c.pcm
+[10May2026 00:10:39.901] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+591114b2-baed-4eca-a1a3-4a2fec0b57a3.pcm
+[10May2026 00:10:39.909] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+c1e56f4a-0e48-4e51-8b67-6a25366905ae.pcm
+[10May2026 00:10:39.909] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+18bce0bb-b2df-4205-a7ce-f1e41ce3d0aa.pcm
+[10May2026 00:10:39.910] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+bbf920b6-cde5-4ff3-988a-0b3b9c107128.pcm
+[10May2026 00:10:39.910] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+6d6c03a2-4511-4e82-aece-c018d08d298c.pcm
+[10May2026 00:10:39.911] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+4a876f7f-cfb1-428d-ba04-84e09d038f79.pcm
+[10May2026 00:10:39.913] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+6f4a4603-9f2a-4b04-b43a-e327d0230704.pcm
+[10May2026 00:10:39.913] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+6b975c82-58f1-4e26-b82d-a32e3d6deb03.pcm
+[10May2026 00:10:39.913] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+3b556db0-7ec8-4215-8bef-1763374bf338.pcm
+[10May2026 00:10:39.914] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+b1475841-b8c8-461e-b77a-f32912903e07.pcm
+[10May2026 00:10:39.916] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+17e4bd62-34a3-4062-899d-a9bd1a58b8a9.pcm
+[10May2026 00:10:39.916] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+0772e9ae-2d50-4999-a295-ee2ee88b70f5.pcm
+[10May2026 00:10:39.917] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+63fb68a9-7f8c-440f-963b-35b75cb2cb78.pcm
+[10May2026 00:10:39.917] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+74377837-8194-4a91-915d-0fa0a82d916d.pcm
+[10May2026 00:10:39.918] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+a3700278-b8d2-4485-a48f-2359072c57db.pcm
+[10May2026 00:10:39.918] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+dcaf79f6-f8e3-4fe0-98af-8230338df71f.pcm
+[10May2026 00:10:59.297] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:11:18.220] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:11:18.220] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:12:02.508] [VoiceChatPacketProcessingThread/WARN] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Recording buffer full!
+[10May2026 00:12:18.221] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:12:18.221] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:12:36.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 has made the advancement [Diamonds!]
+[10May2026 00:13:18.221] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:13:18.222] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:13:29.256] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 2.467053ms
+[10May2026 00:13:29.259] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+a1df93ce-dd25-4d91-be0f-18be3235b297.pcm
+[10May2026 00:13:29.260] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+6a0d784b-5a4f-4a8d-b2d0-ca87a6e2aa20.pcm
+[10May2026 00:13:29.261] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+c2f407ee-3678-41da-a8d7-551ae2aa0639.pcm
+[10May2026 00:13:29.262] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+405fef5a-59fc-4803-9b82-b8d78c944570.pcm
+[10May2026 00:13:29.262] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+bf353e37-6cd8-41c0-a1ab-947a65dd5850.pcm
+[10May2026 00:13:29.263] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+8fa2b047-cda9-41ff-9a4e-a2e79e1873e1.pcm
+[10May2026 00:13:29.263] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+79cf0368-c969-4698-8cf9-f152da3eda85.pcm
+[10May2026 00:13:29.264] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+61e081ae-4301-4399-8fe1-6893795a5659.pcm
+[10May2026 00:13:29.264] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+ce91da70-9298-4db9-b29b-4e5243db4ae5.pcm
+[10May2026 00:13:29.266] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+36dedbf3-61a5-42c8-9567-e1669a13175f.pcm
+[10May2026 00:13:29.268] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+71f46e92-af74-4701-aebd-de0d3e3d0c90.pcm
+[10May2026 00:13:29.268] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+ef88b538-54ea-44f0-9a64-60a48363eaa4.pcm
+[10May2026 00:13:29.268] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+5f7e3a01-a039-4942-aa47-58ade8fe51aa.pcm
+[10May2026 00:13:29.270] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+3448f6e3-63f2-4367-85b5-e946468d2cad.pcm
+[10May2026 00:13:59.297] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:14:18.222] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:14:18.222] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:15:18.222] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:15:18.222] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:16:18.223] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:16:18.223] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:16:26.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Diamonds!]
+[10May2026 00:16:29.261] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 3.532271ms
+[10May2026 00:16:29.269] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+4dc0e391-db11-47fa-884c-2ad3fe5cdd37.pcm
+[10May2026 00:16:29.270] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+a4db69f9-d6bc-4cf6-b014-0f0be8c16e90.pcm
+[10May2026 00:16:29.270] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+9390170f-1dff-4908-bb00-5e1d254f70eb.pcm
+[10May2026 00:16:29.271] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+f1eb0acd-3029-4a28-8ec7-37ae16dc574f.pcm
+[10May2026 00:16:29.271] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+60144175-7576-4702-8191-32069cf6ad00.pcm
+[10May2026 00:16:29.272] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+97027163-a35f-41d9-b120-56ae0263a749.pcm
+[10May2026 00:16:29.273] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+2cf2512b-dc2d-4d23-b255-1a1b701709a0.pcm
+[10May2026 00:16:29.274] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+ed34b799-5f2b-4c9d-b868-52a12382bc9f.pcm
+[10May2026 00:16:29.275] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+943a0bdd-f4c1-4c9e-8ef7-f62e678f9bb2.pcm
+[10May2026 00:16:29.275] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+e122c22d-8785-423c-8111-5ab66edf494a.pcm
+[10May2026 00:16:29.276] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+3e819514-c9fc-435e-ae16-aee58cd58d7c.pcm
+[10May2026 00:16:29.276] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+419298c6-5d79-4938-87ec-96cc77de3ad4.pcm
+[10May2026 00:16:29.277] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+19ecb145-8d2f-4b48-acb5-16d1245ed5dd.pcm
+[10May2026 00:16:29.278] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+eb4aa328-64f6-4ec2-90d1-cb3166a7e69b.pcm
+[10May2026 00:16:29.279] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+31cea4bc-f3a8-4eb3-a9bb-481813e44c0c.pcm
+[10May2026 00:16:29.281] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+49685909-5ffb-4827-a066-d98e53b11dcd.pcm
+[10May2026 00:16:29.281] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+5ec11eda-ba1b-4349-a50c-95beed2c1d13.pcm
+[10May2026 00:16:29.282] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+e78f341c-0852-4dea-a26b-dcea80ce34e0.pcm
+[10May2026 00:16:29.283] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+2364f8f0-e6ab-4240-bc30-249ffcff62a7.pcm
+[10May2026 00:16:29.285] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+f57a4a5f-4717-4fd3-ad64-abf07b36b353.pcm
+[10May2026 00:16:30.547] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:17:18.224] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:17:18.224] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:17:36.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was obliterated by a sonically-charged shriek
+[10May2026 00:17:38.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was obliterated by a sonically-charged shriek
+[10May2026 00:18:13.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Yeti
+[10May2026 00:18:18.224] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:18:18.224] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:19:00.513] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 4.213559ms
+[10May2026 00:19:00.519] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+436ca917-ecca-492f-9bda-465cd31a4808.pcm
+[10May2026 00:19:00.520] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+80ed3d86-9cc6-494e-9dfb-87140cb64b50.pcm
+[10May2026 00:19:00.521] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+f7e0410e-b1b2-403b-bef0-039417b9ca53.pcm
+[10May2026 00:19:00.522] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+756d8cab-255e-4067-b7ac-ac0591990e77.pcm
+[10May2026 00:19:00.523] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+06d1102b-a1f5-4ca6-8423-c1853d2a6ff5.pcm
+[10May2026 00:19:00.524] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+4eb305af-9b5c-4a63-af06-4f7703186c2d.pcm
+[10May2026 00:19:00.525] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+180de143-0d8d-47b1-ac37-50f9a622d6da.pcm
+[10May2026 00:19:00.525] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+6df22d5d-f5b2-427d-a074-62a8f8dc020a.pcm
+[10May2026 00:19:00.527] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+607275ae-8e84-45f2-bc71-7cfebe1501d0.pcm
+[10May2026 00:19:00.528] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+74a3697d-bb64-4b9e-9a86-26bcfb24b9a8.pcm
+[10May2026 00:19:00.528] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+50fb526c-3ff0-4571-a654-6973e0e96dd9.pcm
+[10May2026 00:19:00.528] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+274cdb7c-3650-4538-93ab-d5f0b734b221.pcm
+[10May2026 00:19:00.529] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+ef59edc1-4a7b-41d7-99bf-a5f85293511f.pcm
+[10May2026 00:19:00.531] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+b5ddd42b-29e5-4aa3-bc94-999eddcc0565.pcm
+[10May2026 00:19:00.532] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+7c77ec41-32d0-403e-afd8-6b81ee5e8031.pcm
+[10May2026 00:19:00.533] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+86635cac-9e62-4853-b8d1-f21ab70a3d16.pcm
+[10May2026 00:19:00.534] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+3d15ed32-a21a-4d0d-8810-5a96a6f6ab8b.pcm
+[10May2026 00:19:00.534] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+26644f50-b94f-48e2-a36e-aa3baf5368ee.pcm
+[10May2026 00:19:00.535] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+99de136f-d16f-459b-b8a9-7c0d1f855855.pcm
+[10May2026 00:19:00.536] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+3424a14e-9803-4759-b54a-15d2ca68e511.pcm
+[10May2026 00:19:00.536] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+fbea4cba-ee2c-415a-98ba-621c9959145b.pcm
+[10May2026 00:19:03.047] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:19:18.225] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:19:18.225] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:20:18.225] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:20:18.225] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:21:04.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 has made the advancement [Sneak 100]
+[10May2026 00:21:18.225] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:21:18.226] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:21:24.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Cave Dweller
+[10May2026 00:21:27.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Cave Dweller
+[10May2026 00:21:33.011] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 5.197262ms
+[10May2026 00:21:33.013] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+fb2d3314-9598-43b6-9811-c5a4ae2cdf7b.pcm
+[10May2026 00:21:33.015] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+fe73be97-ebca-45d4-897c-cb2ef03525a1.pcm
+[10May2026 00:21:33.018] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+6f340e70-c169-4ddc-9743-ecf94f7499d9.pcm
+[10May2026 00:21:33.018] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+37c22f34-0e87-401c-8e24-5f0c790ac0ed.pcm
+[10May2026 00:21:33.019] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+004dd580-6a71-4ead-97f1-b149f3362b50.pcm
+[10May2026 00:21:33.021] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+e18b98e8-f3b5-4e25-83bb-3d4c90988d23.pcm
+[10May2026 00:21:33.022] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+9f8c37d0-0259-422a-82b4-dd85985555b9.pcm
+[10May2026 00:21:33.023] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+941531b4-a918-4335-9e98-989e28cf21f0.pcm
+[10May2026 00:21:33.023] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+84f02f1f-d6bf-4f8c-9261-2d699feaa091.pcm
+[10May2026 00:21:33.024] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+387322de-45f8-4298-9bce-ef3e9102b115.pcm
+[10May2026 00:21:33.024] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+7a28076c-1b34-463b-9b8f-e316f80dadc0.pcm
+[10May2026 00:21:33.025] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+dc320f72-af64-4f65-921c-628843bb351e.pcm
+[10May2026 00:21:33.025] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+85b01b08-901d-49e2-adb6-482805caeb17.pcm
+[10May2026 00:21:33.026] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+46ee65ed-4566-4b25-ab7c-8630d82a7b55.pcm
+[10May2026 00:21:33.026] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+0b808ac9-0735-4c5d-a046-7e31025d4459.pcm
+[10May2026 00:21:33.026] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+4292ad8e-98ed-44a2-bb27-64e25d506d39.pcm
+[10May2026 00:21:33.027] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+efadfb9a-0aab-4c74-a1f7-47f9f79ea0bd.pcm
+[10May2026 00:21:33.027] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+1e8cd5e1-8154-4644-b4ae-cc2e2c8689db.pcm
+[10May2026 00:21:35.547] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:21:44.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Sneak 100]
+[10May2026 00:22:18.226] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:22:18.226] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:22:39.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:22:39.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:23:06.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:23:18.226] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:23:18.226] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:23:18.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:23:22.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:23:31.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:23:40.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:23:46.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:24:02.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:24:05.509] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 2.751929ms
+[10May2026 00:24:05.509] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+36eeac9e-56ee-46d5-b5ea-b6392f100e53.pcm
+[10May2026 00:24:05.514] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+df9c605a-f365-477c-bfce-da2d926174a5.pcm
+[10May2026 00:24:05.515] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+40ff76fc-729e-451d-ae75-e287d84b1ceb.pcm
+[10May2026 00:24:05.516] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+0b574220-c391-4dc3-89e6-d9dc50fd6ff1.pcm
+[10May2026 00:24:05.516] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+7c10393a-8f31-48b4-8f09-c9d074366f71.pcm
+[10May2026 00:24:05.517] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+917426b6-9842-48f9-81ad-ea862b111227.pcm
+[10May2026 00:24:05.517] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+7cf09688-cd06-4481-bf50-9beab1fdb3bf.pcm
+[10May2026 00:24:05.518] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+b9b92e75-6aeb-4288-b1f7-7c663a484811.pcm
+[10May2026 00:24:05.518] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+eb245980-6442-497d-b33d-4cfa94d18c60.pcm
+[10May2026 00:24:05.519] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+07b122c9-02f3-4579-a116-9aadd08559eb.pcm
+[10May2026 00:24:05.519] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+7afd2acb-186a-43de-8cba-63b91b66851d.pcm
+[10May2026 00:24:05.520] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+26206861-3e1c-45d3-860c-ba322f193ab8.pcm
+[10May2026 00:24:05.521] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+b330a71b-a521-4760-bd74-42f640bc2afe.pcm
+[10May2026 00:24:05.521] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+33f33563-1403-4cc0-aa63-58a7fa259ade.pcm
+[10May2026 00:24:05.521] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+2f7ae9a1-4cd6-48af-98fc-79c40044fa56.pcm
+[10May2026 00:24:05.522] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+f894a024-079c-4726-99c1-cf8867973ab0.pcm
+[10May2026 00:24:05.522] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+f270e429-8dcb-48f6-a6c3-e55c7e6778fe.pcm
+[10May2026 00:24:05.523] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+a416cd76-2a25-4cce-a59f-c70b4ce27f5d.pcm
+[10May2026 00:24:05.524] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+04057d66-69b5-481f-905d-06ec5ac978d4.pcm
+[10May2026 00:24:05.524] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+00a67d2e-b737-4262-b488-947e0be48bf1.pcm
+[10May2026 00:24:05.547] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:24:15.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:24:18.227] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:24:18.227] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:24:27.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:24:40.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was obliterated by a sonically-charged shriek
+[10May2026 00:24:40.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:24:54.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:24:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:25:09.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:25:10.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:25:18.227] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:25:18.227] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:25:21.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:25:23.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:25:35.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:25:43.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:25:55.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:25:57.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:26:09.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:26:09.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:26:18.228] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:26:18.228] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:26:23.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:26:24.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:26:35.509] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 2.758296ms
+[10May2026 00:26:35.511] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+2b440a8a-5f03-4c86-8788-c8a8bc513fe1.pcm
+[10May2026 00:26:35.512] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+6763bf68-0a6a-48e6-9535-b59510a06c30.pcm
+[10May2026 00:26:35.513] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+90817a36-175c-4600-9e2c-11a2788804ef.pcm
+[10May2026 00:26:35.516] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+4b469c5d-53e2-4d21-9cc2-79d3909ad63d.pcm
+[10May2026 00:26:35.518] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+10d3c6d1-d16b-49c5-abe3-2dd3f4c44727.pcm
+[10May2026 00:26:35.520] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+dee5e403-e2da-49c7-b8d8-68ea1d7e7a37.pcm
+[10May2026 00:26:35.520] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+4254384e-b3cd-4dff-a7f7-7b815e953a79.pcm
+[10May2026 00:26:35.521] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+0f373e49-ca62-4bfa-908d-265cf4fc24d4.pcm
+[10May2026 00:26:35.521] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+fee748ba-136b-4e93-b4c9-56729b0c6f64.pcm
+[10May2026 00:26:35.522] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+91892628-0d7d-42e8-9434-585d630224d0.pcm
+[10May2026 00:26:35.523] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+169dc010-ebef-440a-ae81-68b4d9f0474b.pcm
+[10May2026 00:26:35.523] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+5bfebc84-4564-46b5-a0b5-af861892b06f.pcm
+[10May2026 00:26:35.524] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+e2070bce-ce6c-44e3-a5f8-06c428b2521c.pcm
+[10May2026 00:26:35.525] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+421e3e2c-5a5c-4f84-8f05-2799d93c4982.pcm
+[10May2026 00:26:35.525] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+16b7a67a-73b6-4af0-98ec-f8369eb14414.pcm
+[10May2026 00:26:35.526] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+637affb0-1eca-408a-824f-4a32527cf367.pcm
+[10May2026 00:26:35.527] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+92d054c7-000a-486a-b1f5-96e479837c2f.pcm
+[10May2026 00:26:36.797] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:26:37.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:26:42.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:26:48.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:26:55.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:27:06.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:27:16.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:27:18.228] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:27:18.228] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:27:20.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:27:34.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:27:38.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:27:47.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:27:50.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:28:00.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:28:04.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Warden
+[10May2026 00:28:15.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Warden
+[10May2026 00:28:18.229] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:28:18.229] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:29:06.756] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 2.549459ms
+[10May2026 00:29:06.757] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+17c23b84-7215-4e34-a02a-74642941bd1c.pcm
+[10May2026 00:29:06.758] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+2036a53a-75e3-4d41-9ea6-bb48a3a3b3aa.pcm
+[10May2026 00:29:06.760] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+4923cbee-8447-4280-8c5a-e4f795077b94.pcm
+[10May2026 00:29:06.761] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+c0950a25-3565-4a84-8abd-8f7231e6a8ad.pcm
+[10May2026 00:29:06.762] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+f88ab5bf-fc3a-4757-ba24-e793a57fe0f8.pcm
+[10May2026 00:29:06.765] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+39efbb50-8bd7-4fab-b30a-09669fd4168f.pcm
+[10May2026 00:29:06.765] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+f86a17c6-e7f0-4b5e-8207-17b7c35f97c2.pcm
+[10May2026 00:29:06.766] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+ef2ccd29-33da-4761-8965-cc237d9bda33.pcm
+[10May2026 00:29:06.766] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+59a71164-516b-4c36-8918-38d248ce75f3.pcm
+[10May2026 00:29:06.767] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+8472843f-7266-4d56-b903-fa4f92351914.pcm
+[10May2026 00:29:06.768] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+e305e167-efdb-4ed2-b324-7efeebc29685.pcm
+[10May2026 00:29:06.769] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+42b531c0-0381-4b95-a71d-d9cb97bf1082.pcm
+[10May2026 00:29:06.769] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+a94ad7c1-96cd-49aa-8c29-e0ade66f97d5.pcm
+[10May2026 00:29:06.770] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+aeb29bf8-4f6c-43d3-b67e-ae2a25e5177d.pcm
+[10May2026 00:29:06.771] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+8acc3491-a871-45b6-874d-685f879c22bc.pcm
+[10May2026 00:29:06.771] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+db54dbd3-4d26-4517-a3d0-78227081c7ae.pcm
+[10May2026 00:29:06.772] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+3c3a0767-d9b1-40ad-91fc-6c3a3fd84141.pcm
+[10May2026 00:29:06.772] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+b86e55ba-63f4-4474-8b8d-e46410142afd.pcm
+[10May2026 00:29:06.772] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+aeae2c00-ce90-45d7-bd6e-119b6cd3de88.pcm
+[10May2026 00:29:06.773] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+56627481-8168-4b9c-99ea-3218b06c061c.pcm
+[10May2026 00:29:17.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was obliterated by a sonically-charged shriek
+[10May2026 00:29:18.229] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:29:18.229] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:29:43.654] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:30:16.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Revervox
+[10May2026 00:30:18.230] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:30:18.230] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:30:39.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Revervox
+[10May2026 00:30:41.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Revervox
+[10May2026 00:31:18.230] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:31:18.231] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:32:11.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Revervox
+[10May2026 00:32:13.654] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 7.368127ms
+[10May2026 00:32:13.655] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+ea3542ca-e026-4260-8de6-df393d86c609.pcm
+[10May2026 00:32:13.656] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+fb68c82f-96db-4241-b6ed-276dafeaccfc.pcm
+[10May2026 00:32:13.656] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+70d7c318-ed5b-404a-8930-138ea3a08d5a.pcm
+[10May2026 00:32:13.657] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+1943cf39-1f3a-4e78-ac15-958174f625dd.pcm
+[10May2026 00:32:13.660] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+2be6303c-bff4-4343-a832-9d639a7e24de.pcm
+[10May2026 00:32:13.661] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+9f030fe4-4710-4c61-bfce-31ffcebbd1cb.pcm
+[10May2026 00:32:13.663] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+d7f9df37-fe97-48cf-8996-6c77a2d817ad.pcm
+[10May2026 00:32:13.664] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+9aa04ada-3378-4327-bc1d-a817bbe9c9b4.pcm
+[10May2026 00:32:13.665] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+b6b5271b-0f9b-44c9-962c-a358cad492d8.pcm
+[10May2026 00:32:13.665] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+48e6e456-690e-4e6b-b35e-0bedafb95abc.pcm
+[10May2026 00:32:13.666] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+4e2341ef-ace4-4b22-b9f8-0bec1e103671.pcm
+[10May2026 00:32:13.667] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+db1ceace-69e4-4054-9974-6dec73d5211e.pcm
+[10May2026 00:32:13.668] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+f48653cb-01b2-4978-b45e-7fe311a57f2d.pcm
+[10May2026 00:32:13.669] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+4dc64ade-4902-441f-bd6a-3faf24f3049e.pcm
+[10May2026 00:32:13.670] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+23ade7e2-4506-44c1-9ead-300e67b9c41d.pcm
+[10May2026 00:32:13.670] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+dd87d71a-6e1a-4f02-9569-1b2c09007341.pcm
+[10May2026 00:32:13.670] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+7ff12cc2-9df9-4b3e-85ac-bed7dc847e56.pcm
+[10May2026 00:32:13.671] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+43d61e8d-adcb-4d37-a433-8c8d933a0073.pcm
+[10May2026 00:32:13.671] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+53600717-7b7b-4265-9d59-e6fad97e8243.pcm
+[10May2026 00:32:13.672] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+933f3d88-3914-465b-9b82-4c5fd0d7417d.pcm
+[10May2026 00:32:13.672] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+a9408c91-ace4-4c1f-80a3-755ab2043416.pcm
+[10May2026 00:32:13.672] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+f92866c1-35a8-4e8c-878f-e7db4bc3439c.pcm
+[10May2026 00:32:13.673] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+d0756ac9-8669-4285-8125-2edfb59fc50c.pcm
+[10May2026 00:32:13.673] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+c56b2ffe-772a-43a6-a200-fe066eb00a41.pcm
+[10May2026 00:32:13.674] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+45ba49b6-85a4-400e-afea-4980000d34e0.pcm
+[10May2026 00:32:13.675] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+56fb20d7-e5d7-4425-a0bb-f052bcd31730.pcm
+[10May2026 00:32:13.675] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+dd73452f-da2b-4c08-bc42-ddd7024f8b64.pcm
+[10May2026 00:32:18.231] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:32:18.232] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:32:19.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Revervox
+[10May2026 00:32:23.659] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:32:35.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 tried to touch the lightning
+[10May2026 00:32:46.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 tried to touch the lightning
+[10May2026 00:32:50.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 tried to touch the lightning
+[10May2026 00:32:59.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 tried to touch the lightning
+[10May2026 00:33:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was obliterated by Chesed
+[10May2026 00:33:18.232] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:33:18.232] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:33:28.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was obliterated by Chesed
+[10May2026 00:33:42.544] [VoiceChatPacketProcessingThread/WARN] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Recording buffer full!
+[10May2026 00:33:43.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 got electrified
+[10May2026 00:33:49.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was buried under the rocks
+[10May2026 00:34:12.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was turned into a book by Chesed
+[10May2026 00:34:18.232] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:34:18.233] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:34:28.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 lost its head to a boulder
+[10May2026 00:34:35.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 lost its head to a boulder
+[10May2026 00:34:52.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was obliterated by Chesed
+[10May2026 00:34:53.653] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 5.437194ms
+[10May2026 00:34:53.655] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+8d81a40f-3cd2-4acf-adad-4539b347c9e0.pcm
+[10May2026 00:34:53.655] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+441dc790-e1d5-414c-99b7-292ebd2c9acd.pcm
+[10May2026 00:34:53.658] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+c572a161-bd39-4ca8-a39f-f9ace927c9e1.pcm
+[10May2026 00:34:53.658] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+83baa1e9-7f39-4761-99ed-e4b9683d197f.pcm
+[10May2026 00:34:53.659] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+a94ede53-8778-48da-b140-5f6dd047b43d.pcm
+[10May2026 00:34:53.660] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+7548e720-0e7e-4702-a1c9-9fb0d8e8fd02.pcm
+[10May2026 00:34:53.660] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+211bfcf9-bc8a-4399-bb0b-5416b84c8589.pcm
+[10May2026 00:34:53.661] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+7d841604-cc6c-415b-b59a-02f4acc00100.pcm
+[10May2026 00:34:53.662] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+a520cedf-beb6-4849-99b8-ac0c974b38b7.pcm
+[10May2026 00:34:53.662] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+6c891343-f95e-4cf6-b4cd-0ae4973bf4ec.pcm
+[10May2026 00:34:53.663] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+14d19e83-0ed1-4f59-8251-d22fd3a77f84.pcm
+[10May2026 00:34:53.664] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+31bbca43-e8ad-4050-9b79-4ccc93f100c0.pcm
+[10May2026 00:34:53.664] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+f5b2abad-1eaa-4015-8cb9-cc131bf55984.pcm
+[10May2026 00:34:53.666] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+2e634f15-0455-4db9-ae73-6b0544bc3f62.pcm
+[10May2026 00:34:53.667] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+79c2b40f-0b37-4b94-966f-4ee26a58f215.pcm
+[10May2026 00:34:53.667] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+12ab3ab9-4734-4ec0-ae19-9d2a38cf139f.pcm
+[10May2026 00:34:53.668] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+8aa44a17-89d9-4218-b0b3-948e02afb252.pcm
+[10May2026 00:34:53.668] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+abb1269d-c5b2-4048-919e-823eeca09226.pcm
+[10May2026 00:34:53.669] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+7e6a231c-f44b-4419-b218-1d7ea7088173.pcm
+[10May2026 00:34:53.669] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+5cb6510e-d140-4ef3-a9a9-e67d68bd4bda.pcm
+[10May2026 00:34:53.670] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+7a9f1fd0-844c-4c0a-8df0-5a03fba07f87.pcm
+[10May2026 00:34:53.670] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+665cd283-633c-4090-8da3-4450d16672fb.pcm
+[10May2026 00:34:55.547] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:35:08.866] [VoiceChatPacketProcessingThread/WARN] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Recording buffer full!
+[10May2026 00:35:09.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was obliterated by Chesed
+[10May2026 00:35:18.233] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:35:18.233] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:35:21.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was rolled over
+[10May2026 00:35:33.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camilxdk0 lost connection: Disconnected
+[10May2026 00:35:33.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 left the game
+[10May2026 00:35:33.458] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Camilxdk0
+[10May2026 00:35:39.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
+[10May2026 00:35:39.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[10May2026 00:35:39.758] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[10May2026 00:35:40.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camilxdk0[/127.145.153.131:40277] logged in with entity id 40471 at (-1333.300000011921, -49.0, 278.16646913321154)
+[10May2026 00:35:40.717] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Camilxdk0
+[10May2026 00:35:40.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 joined the game
+[10May2026 00:35:41.086] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Camilxdk0 (20)
+[10May2026 00:35:41.086] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Camilxdk0
+[10May2026 00:35:44.503] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4aae6708-c63c-30db-8d96-59328c0f1a26
+[10May2026 00:35:45.290] [ForkJoinPool.commonPool-worker-8/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:Hachiko2357'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:104) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.base.YggdrasilSkinProvider.getProfile(YggdrasilSkinProvider.java:51) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.builtin.MojangSkinProvider.lambda$new$0(MojangSkinProvider.java:44) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.builtin.MojangSkinProvider.resolveUuid(MojangSkinProvider.java:75) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.base.ProfileSkinProvider.getCacheKey(ProfileSkinProvider.java:63) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.base.ProfileSkinProvider.getCacheKey(ProfileSkinProvider.java:19) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.base.AbstractSkinProvider.fetchSkin(AbstractSkinProvider.java:49) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md0a2dcb$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:596) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:596) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md0a2dcb$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:580) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[10May2026 00:35:45.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hachiko2357[/127.239.246.86:52823] logged in with entity id 40879 at (-1381.9904700660734, -49.0, 306.2869220618843)
+[10May2026 00:35:45.331] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Hachiko2357
+[10May2026 00:35:45.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 joined the game
+[10May2026 00:35:45.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4aae6708-c63c-30db-8d96-59328c0f1a26
+[10May2026 00:35:45.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Camilxdk0 (4aae6708-c63c-30db-8d96-59328c0f1a26) successfully connected to voice chat
+[10May2026 00:35:45.619] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Hachiko2357 (20)
+[10May2026 00:35:45.619] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Hachiko2357
+[10May2026 00:35:49.907] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e150fa99-c77a-3847-bab5-f1c8195ed2b2
+[10May2026 00:35:50.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e150fa99-c77a-3847-bab5-f1c8195ed2b2
+[10May2026 00:35:50.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Hachiko2357 (e150fa99-c77a-3847-bab5-f1c8195ed2b2) successfully connected to voice chat
+[10May2026 00:36:18.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was obliterated by Chesed
+[10May2026 00:36:18.233] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:36:18.234] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:36:35.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was obliterated by Chesed
+[10May2026 00:36:45.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 tried to touch the lightning
+[10May2026 00:37:01.350] [VoiceChatPacketProcessingThread/WARN] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Recording buffer full!
+[10May2026 00:37:02.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 tried to touch the lightning
+[10May2026 00:37:16.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 tried to touch the lightning
+[10May2026 00:37:18.235] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:37:18.235] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:37:25.514] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 8.627678ms
+[10May2026 00:37:25.515] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+376d5d27-a4a6-4fb0-910f-2b178d97f992.pcm
+[10May2026 00:37:25.516] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+98dc63c0-8a85-4288-81dc-5259d49f59b7.pcm
+[10May2026 00:37:25.516] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+600d3257-d609-43b0-b736-8c557d590077.pcm
+[10May2026 00:37:25.517] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+882af1e6-86ea-4b5a-ad93-af0dc3961ea8.pcm
+[10May2026 00:37:25.518] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+eb93c9ea-99b2-4696-bd53-ea0bf0118939.pcm
+[10May2026 00:37:25.518] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+2938242c-cc12-4428-a91f-52f250e68595.pcm
+[10May2026 00:37:25.519] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+bddfe7e4-fda8-496f-b4bf-c941d4710915.pcm
+[10May2026 00:37:25.519] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+812570c6-5f5b-4edb-82ba-e60dd86b86f5.pcm
+[10May2026 00:37:25.520] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+e0092967-5974-4090-bf31-d1d67e4a5487.pcm
+[10May2026 00:37:25.520] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+2b222097-48c5-46f7-9df2-64c945d3cbcc.pcm
+[10May2026 00:37:25.523] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+9cd16628-1a66-4e4c-b194-f60320b2def3.pcm
+[10May2026 00:37:25.524] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+099cdd35-b7f4-4522-af18-c456d44840c2.pcm
+[10May2026 00:37:25.525] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+351b5487-4cad-4b55-980b-eb4808c2c19c.pcm
+[10May2026 00:37:29.910] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:37:36.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was buried under the rocks
+[10May2026 00:37:36.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Camilxdk0: Killed Chesed]
+[10May2026 00:37:39.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has completed the challenge [Chesed]
+[10May2026 00:37:39.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 has completed the challenge [Chesed]
+[10May2026 00:38:15.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Yeti
+[10May2026 00:38:18.235] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:38:18.235] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:38:27.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 was slain by Yeti
+[10May2026 00:38:40.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was slain by Yeti
+[10May2026 00:39:13.750] [VoiceChatPacketProcessingThread/WARN] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Recording buffer full!
+[10May2026 00:39:18.235] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:39:18.236] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:39:49.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Camilxdk0: Killed 83 entities]
+[10May2026 00:39:57.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
+[10May2026 00:39:57.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[10May2026 00:39:57.763] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[10May2026 00:39:59.908] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 10.54292ms
+[10May2026 00:39:59.909] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+de795951-a9e0-4e39-95ff-5f7fd1db0856.pcm
+[10May2026 00:39:59.910] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+3735659b-2b36-4d48-b514-1e8e1ddb7c8c.pcm
+[10May2026 00:39:59.911] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+eac8d413-95c9-41c0-82ea-3ea13268cd77.pcm
+[10May2026 00:39:59.912] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+967f1026-e777-4a33-829b-4ae6602a32f2.pcm
+[10May2026 00:39:59.913] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+52b86634-832c-4dc8-b482-54e429bc78f0.pcm
+[10May2026 00:39:59.913] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+28954eb9-7f07-4408-bffc-d7201608f373.pcm
+[10May2026 00:39:59.913] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+5e8c6234-6c76-43af-8b12-5d33128976c4.pcm
+[10May2026 00:39:59.914] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+414f391c-43d6-47c4-9997-c84296ebc916.pcm
+[10May2026 00:39:59.914] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+7ae925a7-0580-410c-9eac-52097f29235c.pcm
+[10May2026 00:39:59.915] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+956474cd-88ef-47e3-b322-bf2785da1dba.pcm
+[10May2026 00:39:59.915] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+571f3e85-f2a5-4135-8bb1-48fde0d33bcb.pcm
+[10May2026 00:39:59.916] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+3f881b5f-236d-4dd2-8230-9a2f30e6f391.pcm
+[10May2026 00:39:59.916] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+cdd6bedb-f891-446c-9684-01faceb5b855.pcm
+[10May2026 00:39:59.917] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+40e6198e-a0e5-447c-9854-973964067a2d.pcm
+[10May2026 00:39:59.917] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+fe4bab28-77ee-46f5-8016-f1f95a63afa7.pcm
+[10May2026 00:39:59.918] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+624144ca-02bf-42bb-870c-01a11d60e6a1.pcm
+[10May2026 00:39:59.919] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+28ab01e6-bcd8-40cb-ad05-768bbea3a28e.pcm
+[10May2026 00:39:59.920] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+e2afe9ad-4c56-4319-b66b-4751aed13c4f.pcm
+[10May2026 00:40:01.154] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Audios will be saved in 300 seconds...
+[10May2026 00:40:18.236] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:40:18.236] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:41:18.236] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:41:18.237] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:42:00.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camilxdk0 lost connection: Disconnected
+[10May2026 00:42:00.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilxdk0 left the game
+[10May2026 00:42:00.404] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Camilxdk0
+[10May2026 00:42:18.237] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:42:18.237] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:42:31.150] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 2.955614ms
+[10May2026 00:42:31.151] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+d3c7c87d-bac3-452c-ad97-5d3a77c74ef9.pcm
+[10May2026 00:42:31.153] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+b72e5e49-9617-48ed-9b0f-c695508724e3.pcm
+[10May2026 00:42:31.154] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/e150fa99-c77a-3847-bab5-f1c8195ed2b2+d6d4b280-195b-4cd7-84f7-b8ddb71ee3b4.pcm
+[10May2026 00:42:31.154] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+2985dfd2-4147-48b9-913b-e8fe13b733b1.pcm
+[10May2026 00:42:31.156] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+e73c5c8d-c83b-45f6-887c-0a8059bdf3bc.pcm
+[10May2026 00:42:31.157] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Deleting unsaved audio file ./world/player_audios/4aae6708-c63c-30db-8d96-59328c0f1a26+eb382ba2-dff7-4332-8b3c-eeaa183ed248.pcm
+[10May2026 00:43:18.237] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:43:18.238] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:44:18.238] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:44:18.238] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:45:18.238] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:45:18.238] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:46:18.239] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:46:18.239] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:47:18.239] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:47:18.239] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:48:18.239] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:48:18.240] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:49:18.240] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:49:18.240] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:50:18.240] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:50:18.240] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:51:18.241] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:51:18.241] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:52:18.241] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:52:18.241] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:53:18.241] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:53:18.242] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:54:18.242] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:54:18.242] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:55:18.242] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:55:18.243] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:56:18.243] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:56:18.243] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:57:18.243] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:57:18.243] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:58:18.244] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:58:18.244] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 00:59:18.244] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 00:59:18.244] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:00:18.244] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:00:18.245] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:01:18.245] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:01:18.245] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:02:18.246] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:02:18.246] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:03:18.246] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:03:18.246] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:04:18.247] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:04:18.247] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:05:18.247] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:05:18.247] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:06:18.248] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:06:18.248] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:07:18.248] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:07:18.248] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:08:18.248] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:08:18.249] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:09:18.249] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:09:18.249] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:10:18.249] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:10:18.250] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:11:18.250] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:11:18.250] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:12:18.250] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:12:18.250] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:13:18.251] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:13:18.251] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:14:18.251] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:14:18.251] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:15:18.252] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:15:18.252] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:16:18.252] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:16:18.252] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:17:18.252] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:17:18.253] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:18:18.253] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:18:18.253] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:19:18.253] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:19:18.254] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:20:18.254] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:20:18.254] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:21:18.254] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:21:18.255] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:22:18.255] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:22:18.255] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:23:18.255] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Removing old audios from cache
+[10May2026 01:23:18.256] [Thread-18/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished removing old audios from cache
+[10May2026 01:23:23.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10May2026 01:23:23.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10May2026 01:23:23.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10May2026 01:23:23.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10May2026 01:23:23.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10May2026 01:23:25.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10May2026 01:23:25.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10May2026 01:23:25.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10May2026 01:23:25.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10May2026 01:23:25.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10May2026 01:23:25.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10May2026 01:23:25.390] [Server thread/INFO] [Framework/]: Unloading server configs...
+[10May2026 01:23:25.391] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[10May2026 01:23:25.393] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[10May2026 01:23:25.393] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Shutting down audio saving...
+[10May2026 01:23:25.393] [Server thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Running audio saving thread before shutdown...
+[10May2026 01:23:25.394] [Audio Saving Thread/INFO] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Finished saving audios in 0.727075ms
+[10May2026 01:23:25.404] [Thread-18/WARN] [dev.omialien.voicechatrecording.VoiceChatRecording/]: Interrupted cache removal thread, finishing
+[10May2026 01:23:25.411] [Thread-2/INFO] [com.example.SoundOfRain.SoundOfRainMod/]: Sound of Rain is evaporating...

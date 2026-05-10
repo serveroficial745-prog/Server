@@ -1,0 +1,158 @@
+---- Minecraft Crash Report ----
+// You should try our sister game, Minceraft!
+
+Time: 2026-05-09 00:44:25
+Description: Exception in server tick loop
+
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_9236_()" because the return value of "java.util.Optional.orElse(Object)" is null
+	at net.mcreator.man.procedures.JumpscareDisplayOverlayIngameProcedure.execute(JumpscareDisplayOverlayIngameProcedure.java:96) ~[The-Man-From-The-Fog-1.4-1.20.1.jar%23215!/:?] {re:classloading}
+	at net.mcreator.man.procedures.JumpscareDisplayOverlayIngameProcedure.onEntityDeath(JumpscareDisplayOverlayIngameProcedure.java:49) ~[The-Man-From-The-Fog-1.4-1.20.1.jar%23215!/:?] {re:classloading}
+	at net.mcreator.man.procedures.__JumpscareDisplayOverlayIngameProcedure_onEntityDeath_LivingDeathEvent.invoke(.dynamic) ~[The-Man-From-The-Fog-1.4-1.20.1.jar%23215!/:?] {re:classloading,pl:eventbus:B}
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:55) ~[eventbus-6.2.33.jar%2352!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:312) ~[eventbus-6.2.33.jar%2352!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:298) ~[eventbus-6.2.33.jar%2352!/:?] {}
+	at net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:304) ~[forge-1.20.1-47.4.20-universal.jar%23228!/:?] {re:classloading}
+	at net.minecraft.server.level.ServerPlayer.m_6667_(ServerPlayer.java:573) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:baguettelib.mixins.json:ServerPlayerDeathMixin,pl:mixin:APP:playerrevive.mixins.json:ServerPlayerMixin,pl:mixin:APP:securitycraft.mixins.json:camera.ServerPlayerMixin,pl:mixin:A}
+	at team.creative.playerrevive.server.PlayerReviveServer.kill(PlayerReviveServer.java:89) ~[PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar%23204!/:2.0.31] {re:mixin,re:classloading}
+	at team.creative.playerrevive.server.ReviveEventServer.playerLeave(ReviveEventServer.java:88) ~[PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar%23204!/:2.0.31] {re:classloading}
+	at team.creative.playerrevive.server.__ReviveEventServer_playerLeave_PlayerLoggedOutEvent.invoke(.dynamic) ~[PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar%23204!/:2.0.31] {re:classloading,pl:eventbus:B}
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:55) ~[eventbus-6.2.33.jar%2352!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:312) ~[eventbus-6.2.33.jar%2352!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:298) ~[eventbus-6.2.33.jar%2352!/:?] {}
+	at net.minecraftforge.event.ForgeEventFactory.firePlayerLoggedOut(ForgeEventFactory.java:905) ~[forge-1.20.1-47.4.20-universal.jar%23228!/:?] {re:classloading}
+	at net.minecraft.server.players.PlayerList.m_11286_(PlayerList.java:346) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,re:classloading,pl:mixin:A}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7026_(ServerGamePacketListenerImpl.java:1140) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:baguettelib.mixins.json:PacketHandlerMixin,pl:mixin:APP:baguettelib.mixins.json:PlayerAbilitiesPacketMixin,pl:mixin:APP:securitycraft.mixins.json:passcode.ServerGamePacketListenerImplMixin,pl:mixin:APP:lootr.mixins.json:MixinServerGamePacketListenerImpl,pl:mixin:A}
+	at net.minecraft.network.Connection.m_129541_(Connection.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,re:classloading}
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:157) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:classloading}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.20.1
+	Minecraft Version ID: 1.20.1
+	Operating System: Linux (amd64) version 6.8.0-1044-azure
+	Java Version: 17.0.18, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 1028524032 bytes (980 MiB) / 5460983808 bytes (5208 MiB) up to 12884901888 bytes (12288 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 7997.94
+	Virtual memory used (MB): 8731.82
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 2 total; -Xms2G -Xmx12G
+	Server Running: true
+	Player Count: 2 / 20; [ServerPlayer['Hachiko2357'/6847, l='ServerLevel[world]', x=-2528.05, y=63.00, z=631.93], ServerPlayer['Camilxdk0'/7798, l='ServerLevel[world]', x=-2530.97, y=62.94, z=633.97]]
+	Data Packs: vanilla, mod:mowziesmobs, mod:geckolib, mod:jei, mod:attributefix (incompatible), mod:configlibtxf, mod:caelus (incompatible), mod:sophisticatedcore (incompatible), mod:insanelib, mod:citadel (incompatible), mod:configured (incompatible), mod:cinematiccataclysm (incompatible), mod:sophisticatedbackpacks (incompatible), mod:cave_dweller (incompatible), mod:fdbosses (incompatible), mod:walljump, mod:corpsecurioscompat, mod:bosses_of_mass_destruction, mod:terralith, mod:carryon (incompatible), mod:baguettelib (incompatible), mod:paraglider (incompatible), mod:cloth_config (incompatible), mod:forge, mod:yeti (incompatible), mod:the_one_who_watches, mod:corpse, mod:psycho, mod:imposter, mod:mcwbridges, mod:alexscaves, mod:voicechat (incompatible), mod:sound_physics_remastered (incompatible), mod:voicechatrecording (incompatible), mod:block_factorys_bosses (incompatible), mod:ambientsounds, mod:fdlib (incompatible), mod:creativecore, mod:watching, mod:eeeabsmobs, mod:lionfishapi (incompatible), mod:revervox_mod (incompatible), mod:cataclysm (incompatible), mod:curios (incompatible), mod:flywheel, mod:ponder (incompatible), mod:patchouli (incompatible), mod:man, mod:cerbons_api, mod:securitycraft, mod:legendary_monsters, mod:simpleauth, mod:architectury (incompatible), mod:otyacraftengine, mod:iammusicplayer, mod:lootr, mod:yet_another_config_lib_v3 (incompatible), mod:cupboard (incompatible), mod:refurbished_furniture, mod:soundofrain, mod:hugestructureblocks, mod:framework, mod:playerrevive, mod:skinrestorer (incompatible), mod:effortlessbuilding
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Experimental
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
+	ModLauncher: 10.0.9+10.0.9+main.dcd20f30
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.2.33.jar eventbus PLUGINSERVICE 
+		fmlloader-1.20.1-47.4.20.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.20.1-47.4.20.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.20.1-47.4.20.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.20.1-47.4.20.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.20.1-47.4.20.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.9.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.9.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		mowziesmobs-1.8.2.jar                             |Mowzie's Mobs                 |mowziesmobs                   |1.8.2               |DONE      |Manifest: NOSIGNATURE
+		geckolib-forge-1.20.1-4.8.3.jar                   |GeckoLib 4                    |geckolib                      |4.8.3               |DONE      |Manifest: NOSIGNATURE
+		jei-1.20.1-forge-15.20.0.130.jar                  |Just Enough Items             |jei                           |15.20.0.130         |DONE      |Manifest: NOSIGNATURE
+		AttributeFix-Forge-1.20.1-21.0.5.jar              |AttributeFix                  |attributefix                  |21.0.5              |DONE      |Manifest: eb:c4:b1:67:8b:f9:0c:db:dc:4f:01:b1:8e:61:64:39:4c:10:85:0b:a6:c4:c7:48:f0:fa:95:f2:cb:08:3a:e5
+		configlibtxf-4.2.8-forge.jar                      |ConfigLib TXF                 |configlibtxf                  |4.2.8-forge         |DONE      |Manifest: NOSIGNATURE
+		caelus-forge-3.2.0+1.20.1.jar                     |Caelus API                    |caelus                        |3.2.0+1.20.1        |DONE      |Manifest: NOSIGNATURE
+		sophisticatedcore-1.20.1-1.3.31.1818.jar          |Sophisticated Core            |sophisticatedcore             |1.3.31.1818         |DONE      |Manifest: NOSIGNATURE
+		insanelib-1.23.4.4.jar                            |InsaneLib                     |insanelib                     |1.23.4.4            |DONE      |Manifest: NOSIGNATURE
+		citadel-2.6.3-1.20.1.jar                          |Citadel                       |citadel                       |2.6.3               |DONE      |Manifest: NOSIGNATURE
+		configured-forge-1.20.1-2.2.3.jar                 |Configured                    |configured                    |2.2.3               |DONE      |Manifest: 0d:78:5f:44:c0:47:0c:8c:e2:63:a3:04:43:d4:12:7d:b0:7c:35:37:dc:40:b1:c1:98:ec:51:eb:3b:3c:45:99
+		cinematiccataclysm-1.0.1-1.20.1.jar               |Cinematic Cataclysm           |cinematiccataclysm            |1.0.1               |DONE      |Manifest: NOSIGNATURE
+		sophisticatedbackpacks-1.20.1-3.24.37.1730.jar    |Sophisticated Backpacks       |sophisticatedbackpacks        |3.24.37.1730        |DONE      |Manifest: NOSIGNATURE
+		Better Cave Dweller-1.20.1.jar                    |cave_dweller                  |cave_dweller                  |1.7.0               |DONE      |Manifest: NOSIGNATURE
+		fdbosses-3.1.0.3-1.20.1.jar                       |Qliphoth Awakening            |fdbosses                      |3.1.0.3             |DONE      |Manifest: NOSIGNATURE
+		walljump-1.20.1-1.3.5-forge.jar                   |Wall-Jump TXF                 |walljump                      |1.20.1-1.3.5-forge  |DONE      |Manifest: NOSIGNATURE
+		corpsecurioscompat-1.20.1-Forge-4.0.1.jar         |Corpse Curios Compatibility   |corpsecurioscompat            |4.0.1               |DONE      |Manifest: NOSIGNATURE
+		BOMD-Forge-1.20.1-1.1.2.jar                       |Bosses of Mass Destruction    |bosses_of_mass_destruction    |1.1.2               |DONE      |Manifest: NOSIGNATURE
+		Terralith_1.20.x_v2.5.4.jar                       |Terralith                     |terralith                     |2.5.4               |DONE      |Manifest: NOSIGNATURE
+		carryon-forge-1.20.1-2.1.2.7.jar                  |Carry On                      |carryon                       |2.1.2.7             |DONE      |Manifest: NOSIGNATURE
+		baguettelib-1.20.1-Forge-1.1.6.jar                |BaguetteLib                   |baguettelib                   |1.1.6               |DONE      |Manifest: NOSIGNATURE
+		Paraglider-forge-20.1.3.jar                       |Paraglider                    |paraglider                    |20.1.3              |DONE      |Manifest: NOSIGNATURE
+		cloth-config-11.1.136-forge.jar                   |Cloth Config v10 API          |cloth_config                  |11.1.136            |DONE      |Manifest: NOSIGNATURE
+		forge-1.20.1-47.4.20-universal.jar                |Forge                         |forge                         |47.4.20             |DONE      |Manifest: NOSIGNATURE
+		yeti-1.20.1-1.7.0.jar                             |yeti                          |yeti                          |1.7.0               |DONE      |Manifest: NOSIGNATURE
+		TheOneWhoWatches-V1.4.4-1.20.1.jar                |The One Who Watches           |the_one_who_watches           |1.4.4               |DONE      |Manifest: NOSIGNATURE
+		corpse-forge-1.20.1-1.0.23.jar                    |Corpse                        |corpse                        |1.20.1-1.0.23       |DONE      |Manifest: NOSIGNATURE
+		psycho_1.20.1.jar                                 |psycho                        |psycho                        |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		server-1.20.1-20230612.114412-srg.jar             |Minecraft                     |minecraft                     |1.20.1              |DONE      |Manifest: NOSIGNATURE
+		imposter-2.0.0-forge-1.20.1.jar                   |imposter                      |imposter                      |2.0.0               |DONE      |Manifest: NOSIGNATURE
+		mcw-bridges-3.1.2-mc1.20.1forge.jar               |Macaw's Bridges               |mcwbridges                    |3.1.2               |DONE      |Manifest: NOSIGNATURE
+		alexscaves-2.0.2.jar                              |Alex's Caves                  |alexscaves                    |2.0.2               |DONE      |Manifest: NOSIGNATURE
+		voicechat-forge-1.20.1-2.6.16.jar                 |Simple Voice Chat             |voicechat                     |1.20.1-2.6.16       |DONE      |Manifest: NOSIGNATURE
+		sound-physics-remastered-forge-1.20.1-1.5.1.jar   |Sound Physics Remastered      |sound_physics_remastered      |1.20.1-1.5.1        |DONE      |Manifest: NOSIGNATURE
+		voicechatrecording-1.20.1-2.0.jar                 |Voice Chat Recording          |voicechatrecording            |2.0                 |DONE      |Manifest: NOSIGNATURE
+		block_factorys_bosses-2.1.1-forge-1.20.1.jar      |Bosses'Rise                   |block_factorys_bosses         |2.1.1               |DONE      |Manifest: NOSIGNATURE
+		AmbientSounds_FORGE_v6.3.7_mc1.20.1.jar           |AmbientSounds                 |ambientsounds                 |6.3.7               |DONE      |Manifest: NOSIGNATURE
+		fdlib-1.0.9-1.20.1.jar                            |FDLib                         |fdlib                         |1.0.9               |DONE      |Manifest: NOSIGNATURE
+		CreativeCore_FORGE_v2.12.37_mc1.20.1.jar          |CreativeCore                  |creativecore                  |2.12.37             |DONE      |Manifest: NOSIGNATURE
+		From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar         |From The Fog                  |watching                      |1.9.2               |DONE      |Manifest: NOSIGNATURE
+		eeeabsmobs-1.20.1-0.98.jar                        |EEEAB's Mobs                  |eeeabsmobs                    |1.20.1-0.98         |DONE      |Manifest: NOSIGNATURE
+		lionfishapi-2.7.jar                               |LionfishAPI                   |lionfishapi                   |2.7                 |DONE      |Manifest: NOSIGNATURE
+		revervox_mod-1.20.1-2.0.jar                       |Revervox                      |revervox_mod                  |2.0                 |DONE      |Manifest: NOSIGNATURE
+		L_Enders_Cataclysm-3.27.jar                       |cataclysm                     |cataclysm                     |3.27                |DONE      |Manifest: NOSIGNATURE
+		curios-forge-5.14.1+1.20.1.jar                    |Curios API                    |curios                        |5.14.1+1.20.1       |DONE      |Manifest: NOSIGNATURE
+		flywheel-forge-1.20.1-1.0.6-beta-266.jar          |Flywheel                      |flywheel                      |1.0.6-beta-266      |DONE      |Manifest: NOSIGNATURE
+		Ponder-Forge-1.20.1-1.0.91.jar                    |Ponder                        |ponder                        |1.0.91              |DONE      |Manifest: NOSIGNATURE
+		Patchouli-1.20.1-85-FORGE.jar                     |Patchouli                     |patchouli                     |1.20.1-85-FORGE     |DONE      |Manifest: NOSIGNATURE
+		The-Man-From-The-Fog-1.4-1.20.1.jar               |The Man From The Fog          |man                           |1.4                 |DONE      |Manifest: NOSIGNATURE
+		CerbonsAPI-Forge-1.20.1-1.1.0.jar                 |Cerbons API                   |cerbons_api                   |1.1.0               |DONE      |Manifest: NOSIGNATURE
+		[1.20.1] SecurityCraft v1.10.1.jar                |SecurityCraft                 |securitycraft                 |1.10.1              |DONE      |Manifest: NOSIGNATURE
+		legendarymonsters-2.0.6 MC 1.20.1.jar             |LegendaryMonsters             |legendary_monsters            |1.20.1              |DONE      |Manifest: NOSIGNATURE
+		simpleauth-5.0.0.jar                              |simpleauth                    |simpleauth                    |5.0.0               |DONE      |Manifest: NOSIGNATURE
+		architectury-9.2.14-forge.jar                     |Architectury                  |architectury                  |9.2.14              |DONE      |Manifest: NOSIGNATURE
+		otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar    |Otyacraft Engine              |otyacraftengine               |3.7.0-alpha.2       |DONE      |Manifest: NOSIGNATURE
+		iammusicplayer-forge-mc1.20-3.22.0-alpha.5.jar    |Iam Music Player              |iammusicplayer                |3.22.0-alpha.5      |DONE      |Manifest: NOSIGNATURE
+		lootr-forge-1.20-0.7.35.94.jar                    |Lootr                         |lootr                         |0.7.35.94           |DONE      |Manifest: NOSIGNATURE
+		yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar  |YetAnotherConfigLib           |yet_another_config_lib_v3     |3.6.6+1.20.1-forge  |DONE      |Manifest: NOSIGNATURE
+		cupboard-1.20.1-3.7.jar                           |Cupboard utilities            |cupboard                      |1.20.1-3.7          |DONE      |Manifest: NOSIGNATURE
+		refurbished_furniture-forge-1.20.1-1.0.20.jar     |MrCrayfish's Furniture Mod: Re|refurbished_furniture         |1.0.20              |DONE      |Manifest: 0d:78:5f:44:c0:47:0c:8c:e2:63:a3:04:43:d4:12:7d:b0:7c:35:37:dc:40:b1:c1:98:ec:51:eb:3b:3c:45:99
+		soundofrain-0.6.0.jar                             |Sound of Rain                 |soundofrain                   |0.6.0               |DONE      |Manifest: NOSIGNATURE
+		huge-structure-blocks-1.0.9-forge.jar             |Huge Structure Blocks         |hugestructureblocks           |1.0.9               |DONE      |Manifest: NOSIGNATURE
+		framework-forge-1.20.1-0.8.0.jar                  |Framework                     |framework                     |0.8.0               |DONE      |Manifest: 0d:78:5f:44:c0:47:0c:8c:e2:63:a3:04:43:d4:12:7d:b0:7c:35:37:dc:40:b1:c1:98:ec:51:eb:3b:3c:45:99
+		PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar           |PlayerRevive                  |playerrevive                  |2.0.31              |DONE      |Manifest: NOSIGNATURE
+		skinrestorer-2.7.0+1.20-forge.jar                 |SkinRestorer                  |skinrestorer                  |2.7.0+1.20-forge    |DONE      |Manifest: NOSIGNATURE
+		effortlessbuilding-1.20.1-3.11.jar                |Effortless Building           |effortlessbuilding            |3.11                |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: be78ad15-7401-455b-b1a3-f4d28ca9752a
+	FML: 47.4
+	Forge: net.minecraftforge:47.4.20
